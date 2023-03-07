@@ -6,7 +6,6 @@
 #### [__Telegram__](https://t.me/damaloonazhret): @damaloonazhret
 #### [__Skype__](https://join.skype.com/invite/LXgNsKKvqTXw): live:.cid.543bd3c7d9d01f2c
 #### [__Diskord__](https://discord.gg/xYDQGDeG): onfire (@damaloonazhret)
-___
 ## __About Myself__
 I am 24 years old. At the moment I work as an engineer, I am engaged in setting up and debugging radar equipment.
 
@@ -14,16 +13,16 @@ I am 24 years old. At the moment I work as an engineer, I am engaged in setting 
  
  For me, programming becomes like a hobby, so I spend all my free time on the front-end, and in the front-end, you can always see the result on the screen of your device, which sometimes motivates me very well. The goals and objectives are simple, constantly learning and evolving.
 ## Skills and Proficiency:
- * HTML5, CSS3
- * JavaScript 
- * Git, GitHub
- * VS Code, WebStorm
- * Adobe Photoshop, Figma
- * Module Bundlers: Gulp
- * Windwows OS, Linux
- * QNX Momentics
+* HTML5, CSS3
+* JavaScript 
+* Git, GitHub
+* VS Code, WebStorm
+* Adobe Photoshop, Figma
+* Module Bundlers: Gulp
+* Windwows OS, Linux
+* QNX Momentics
 ## Code example:
- Return an array containing the numbers from 1 to N, where N is the parametered value.
+Return an array containing the numbers from 1 to N, where N is the parametered value.
 
 Replace certain values however if any of the following conditions are met:
 
