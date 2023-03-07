@@ -21,6 +21,8 @@ I am 24 years old. At the moment I work as an engineer, I am engaged in setting 
 * Module Bundlers: Gulp
 * Windwows OS, Linux
 * QNX Momentics
+
+
 ## Code example:
 Return an array containing the numbers from 1 to N, where N is the parametered value.
 
