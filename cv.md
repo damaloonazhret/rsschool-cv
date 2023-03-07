@@ -13,9 +13,7 @@ I am 24 years old. At the moment I work as an engineer, I am engaged in setting 
  After graduating, I started working in my specialty and studying programming. The direction of front-end development was chosen. I like to learn, I have always been interested in learning new things. 
  
  For me, programming becomes like a hobby, so I spend all my free time on the front-end, and in the front-end, you can always see the result on the screen of your device, which sometimes motivates me very well. The goals and objectives are simple, constantly learning and evolving.
-
-
- ## Skills and Proficiency:
+## Skills and Proficiency:
  * HTML5, CSS3
  * JavaScript 
  * Git, GitHub
@@ -24,8 +22,7 @@ I am 24 years old. At the moment I work as an engineer, I am engaged in setting 
  * Module Bundlers: Gulp
  * Windwows OS, Linux
  * QNX Momentics
-
- ## Code example:
+## Code example:
  Return an array containing the numbers from 1 to N, where N is the parametered value.
 
 Replace certain values however if any of the following conditions are met:
