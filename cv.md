@@ -1,6 +1,6 @@
 # [rsschool-cv](https://rs.school/)
 ## Andrey Mironov
-- - -
+
 ### Contact information:
 
 #### [__Telegram__](https://t.me/damaloonazhret): @damaloonazhret
@@ -13,7 +13,8 @@ I am 24 years old. At the moment I work as an engineer, I am engaged in setting 
  After graduating, I started working in my specialty and studying programming. The direction of front-end development was chosen. I like to learn, I have always been interested in learning new things. 
  
  For me, programming becomes like a hobby, so I spend all my free time on the front-end, and in the front-end, you can always see the result on the screen of your device, which sometimes motivates me very well. The goals and objectives are simple, constantly learning and evolving.
- ___
+
+
  ## Skills and Proficiency:
  * HTML5, CSS3
  * JavaScript 
@@ -56,12 +57,10 @@ function fizzbuzz(n) {
 * Tula State University
     * Department of Radioelectronic Systems and Complexes
 * Selfeducation
+    * [HTML](https://htmlacademy.ru/)
     * [HTML CSS JS](https://www.youtube.com/watch?v=BsQd9uOHjMM&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc)
-    * [JavaScript](https://learn.javascript.ru/)
-    * [JS](https://www.codewars.com/dashboard)
-    * [JavaScript](https://coursehunter.net/course/polnyy-kurs-po-javascript-s-nulya-do-rezultata?lesson=206)
     * [Gulp, SCSS, layout](https://www.youtube.com/watch?v=TisGtkOPh24&list=PLN2KCaMlZNdBEtr55AmjP_67lo8jWoCqt)
-    * ...
+    * [JavaScript-Theory](https://learn.javascript.ru/), [JavaScript-Practical-Theory](https://www.codewars.com/dashboard), [JavaScript-Practice](https://coursehunter.net/course/polnyy-kurs-po-javascript-s-nulya-do-rezultata?lesson=206)
 
 ## Completed projects
 * [virtualPiano](https://damaloonazhret.github.io/virtualPiano/)
