@@ -1,0 +1,87 @@
+html,
+body {
+    font-family: Arial, serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    background-color: #4f4f4f;
+}
+table {
+    border-collapse: collapse;
+}
+table.border td,
+table.border th {
+    padding: 5px;
+    border: 1px solid #c0c0c0;
+}
+table.border th {
+    background: #e0e0e0;
+}
+
+.bg {
+    animation: slide 3s ease-in-out infinite alternate;
+    background-image: linear-gradient(-60deg, rgb(44, 85, 23) 50%, rgb(27, 81, 117) 50%);
+    bottom: 0;
+    left: -50%;
+    opacity: 0.5;
+    position: fixed;
+    right: -50%;
+    top: 0;
+    z-index: -1;
+}
+
+.bg2 {
+    animation-direction: alternate-reverse;
+    animation-duration: 4s;
+}
+
+.bg3 {
+    animation-duration: 5s;
+}
+
+.content {
+    background-color: rgb(195, 195, 195);
+    border-radius: 0.25em;
+    box-shadow: 0 0 0.25em rgba(0, 0, 0, 0.25);
+    box-sizing: border-box;
+    left: 50%;
+    padding: 10vmin;
+    position: fixed;
+    text-align: center;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-family: monospace;
+    width: 20vw;
+    transition: 0.2s ease-in-out;
+}
+h1:hover{
+    transform: scale(1.1);
+}
+h1 a {
+    text-decoration: none;
+    color: black;
+    transition: 0.2s ease-in-out;
+}
+h1 p {
+    color: black;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+}
+h1 a:hover {
+    color: bisque;
+}
+h1 p:hover {
+    color: bisque;
+}
+
+@keyframes slide {
+    0% {
+        transform: translateX(-25%);
+    }
+    100% {
+        transform: translateX(25%);
+    }
+}
