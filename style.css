@@ -65,7 +65,15 @@ h1 a {
     color: black;
     transition: 0.2s ease-in-out;
 }
+h1 p {
+    color: black;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+}
 h1 a:hover {
+    color: bisque;
+}
+h1 p:hover {
     color: bisque;
 }
 
